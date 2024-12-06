@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627311697824",
+    "project_id": "petstagram-7a254",
+    "storage_bucket": "petstagram-7a254.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627311697824:android:ef188dde7f9624792c4ec5",
+        "android_client_info": {
+          "package_name": "com.example.petstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6V-ue92DppNaYVwPQkgt6P6mJNmHHd1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627311697824:android:cef263cb6cd48beb2c4ec5",
+        "android_client_info": {
+          "package_name": "se.uzoebubes.instagramz_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6V-ue92DppNaYVwPQkgt6P6mJNmHHd1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

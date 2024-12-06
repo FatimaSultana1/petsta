@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128029087312",
+    "project_id": "instagram-uzo",
+    "storage_bucket": "instagram-uzo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128029087312:android:ed26ed460efa2913a82355",
+        "android_client_info": {
+          "package_name": "se.uzoebubes.instagramz_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128029087312-clff6k4dpitq3f1gl63227pjb8niivks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFu6yqCPBEeHTnttaoiPJYMHw-I5MK4e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128029087312-clff6k4dpitq3f1gl63227pjb8niivks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
